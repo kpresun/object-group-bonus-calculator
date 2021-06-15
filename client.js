@@ -44,6 +44,7 @@ console.log( employees );
 
 
 function employeeFunction( employeeObject ) {
+  
   let additionalBonus = 0;
   let bonus = 0;
     if (employeeObject.reviewRating = 3) {
